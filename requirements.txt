@@ -1,3 +1,4 @@
 flask>=3.0
 groq>=0.40
 anthropic>=0.40
+gunicorn
